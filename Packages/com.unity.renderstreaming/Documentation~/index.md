@@ -14,22 +14,22 @@ Currently, there is one sample:
 1.  Open an existing or create a new project
 2.  Click on the `Window` Menu and open `Package Manager`. Then, click on `Advanced` and make sure `Show preview packages` is checked
 
-<img src="./images/show_preview_packages.png" width=480 align=center>
+<img src="../images/show_preview_packages.png" width=480 align=center>
 
 3.  Make sure to search `All packages`, and type `RenderStreaming` in the text box.
 
-<img src="./images/render_streaming_package.png" width=480 align=center>
+<img src="../images/render_streaming_package.png" width=480 align=center>
 
 4. Click `Install` on the bottom right.
 
 5. If an input system dialog box appears, click `Yes`
 
-<img src="./images/input_system_backend.png" width=360 align=center>
+<img src="../images/input_system_backend.png" width=360 align=center>
 
 6. Click on `Import in project` to import the HDRP sample.
    This will also automatically install the HDRP package *(com.unity.render-pipelines.high-definition)*.
 
-<img src="./images/hdrp_sample.png" width=480 align=center>
+<img src="../images/hdrp_sample.png" width=480 align=center>
 
 7. When this `Import Unity Package` dialog box appears, click `Import` to import all assets.
 
